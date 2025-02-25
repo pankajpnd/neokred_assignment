@@ -6,16 +6,16 @@ Assignment: Real-time Markdown Editor with Live Preview
 ### 1. git clone https://github.com/pankajpnd/neokred_assignment.git
 ### 2. open two terminals
 ### 3. Terminal 1 run below commands
-(a) cd backend
-(b) npm i 
-(c) npm start 
-- server will start running on port 3001
+(a) cd backend.
+(b) npm i.
+(c) npm start.
+- server will start running on port 3001.
 
 ### 3. Terminal 2 run below commands
-(a) cd frontend
-(b) npm i 
-(c) npm start 
-- server will start running on port 3000
+(a) cd frontend.
+(b) npm i.
+(c) npm start.
+- server will start running on port 3000.
 
 
 
